@@ -1,4 +1,7 @@
 {"Id": 1,
 "Material": "Ceramic",
-"collet dia": 8,
-"RUL": "50 Hours"}
+"Shank dia": 18,
+"Tool dia": 10,
+"Overall Lenght": 18,
+"Cutting Lenght": 18,
+"Usage": "Drilling"}
